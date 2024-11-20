@@ -1,0 +1,30 @@
+[
+    {
+        "image": "path/to/image.jpg",
+        "title": "Product 1",
+        "rate": {
+            "rating": 4.5,
+            "ratings": 120,
+            "reviews": 30
+        },
+        "price": 999,
+        "offers": [
+            "10% off",
+            "Buy 2 get 1 free"
+        ]
+    },
+    {
+        "image": "path/to/image2.jpg",
+        "title": "Product 2",
+        "rate": {
+            "rating": 4.0,
+            "ratings": 80,
+            "reviews": 20
+        },
+        "price": 1499,
+        "offers": [
+            "Free shipping",
+            "5% cashback"
+        ]
+    }
+]
